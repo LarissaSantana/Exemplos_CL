@@ -51,30 +51,30 @@ namespace ExemploSubstringIndexOf
 
             Console.WriteLine(TratarMultiplosTelefones(tel));
 
-            /* Console.WriteLine(@"margin:0" + ";" + "\">");
-             Console.WriteLine(@";" + "\">");
-             Console.WriteLine(@";" + "\">");
-             Exemplo e = new Exemplo();
-             string nome = "       Larissa Santana       ";
-             Console.WriteLine("Primeiro nome: " + e.RetornarPrimeiroNome(nome));
-             Console.WriteLine("Ultimo nome: " + e.RetornarUltimoNome(nome));
+            Console.WriteLine(@"margin:0" + ";" + "\">");
+            Console.WriteLine(@";" + "\">");
+            Console.WriteLine(@";" + "\">");
+            Exemplo e = new Exemplo();
+            string nome = "       Larissa Santana       ";
+            Console.WriteLine("Primeiro nome: " + e.RetornarPrimeiroNome(nome));
+            Console.WriteLine("Ultimo nome: " + e.RetornarUltimoNome(nome));
 
 
-             string nome2 = @"<strong>";
-             string strong = @"mensagem do cliente:
+            string nome2 = @"<strong>";
+            string strong = @"mensagem do cliente:
                             </p>
                             <strong>";
 
-             string indice = @"luisaq<br>";
-             string br = "<br>";
-             Console.WriteLine("Indice: " + e.RetornaIndice(br, indice));
+            string indice = @"luisaq<br>";
+            string br = "<br>";
+            Console.WriteLine("Indice: " + e.RetornaIndice(br, indice));
 
-             string url = @"URL:					<a href=" + "https://avonale.slack.com/" + " style=" + "white-space: nowrap; color: #0576b9;" + "\">";
+            string url = @"URL:					<a href=" + "https://avonale.slack.com/" + " style=" + "white-space: nowrap; color: #0576b9;" + "\">";
 
 
-             Console.WriteLine(e.RetornaIndice(@";" + "\">", url));
-             //Console.Write("\"");
-             Console.Write("\">");*/
+            Console.WriteLine(e.RetornaIndice(@";" + "\">", url));
+            //Console.Write("\"");
+            Console.Write("\">");
             Console.ReadKey();
         }
     }
