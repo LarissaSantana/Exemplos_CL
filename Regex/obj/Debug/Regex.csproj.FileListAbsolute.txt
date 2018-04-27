@@ -1,0 +1,1 @@
+c:\users\larissa.santana\documents\visual studio 2017\Projects\ConsoleApp1\Regex\obj\Debug\Regex.csprojResolveAssemblyReference.cache

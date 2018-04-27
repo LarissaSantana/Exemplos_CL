@@ -1,0 +1,6 @@
+c:\users\larissa.santana\documents\visual studio 2017\Projects\ConsoleApp1\ExemploSubstringIndexOf\bin\Debug\ExemploSubstringIndexOf.exe.config
+c:\users\larissa.santana\documents\visual studio 2017\Projects\ConsoleApp1\ExemploSubstringIndexOf\bin\Debug\ExemploSubstringIndexOf.exe
+c:\users\larissa.santana\documents\visual studio 2017\Projects\ConsoleApp1\ExemploSubstringIndexOf\bin\Debug\ExemploSubstringIndexOf.pdb
+c:\users\larissa.santana\documents\visual studio 2017\Projects\ConsoleApp1\ExemploSubstringIndexOf\obj\Debug\ExemploSubstringIndexOf.exe
+c:\users\larissa.santana\documents\visual studio 2017\Projects\ConsoleApp1\ExemploSubstringIndexOf\obj\Debug\ExemploSubstringIndexOf.pdb
+C:\Users\larissa.santana\documents\visual studio 2017\Projects\ConsoleApp1\ExemploSubstringIndexOf\obj\Debug\ExemploSubstringIndexOf.csprojResolveAssemblyReference.cache

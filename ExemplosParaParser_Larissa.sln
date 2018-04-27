@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.4
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TratamentoEmail", "ConsoleApp1\TratamentoEmail.csproj", "{8E96AA5F-1975-4E48-9D8A-A4657720F4A0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExemploRegex", "Regex\ExemploRegex.csproj", "{724B9E28-AEBA-48A7-805F-5CE5A31F2055}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExemploSubstringIndexOf", "ExemploSubstringIndexOf\ExemploSubstringIndexOf.csproj", "{271F26D7-82B9-4B9D-9B96-DFEAB34B398B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8E96AA5F-1975-4E48-9D8A-A4657720F4A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E96AA5F-1975-4E48-9D8A-A4657720F4A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E96AA5F-1975-4E48-9D8A-A4657720F4A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E96AA5F-1975-4E48-9D8A-A4657720F4A0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{724B9E28-AEBA-48A7-805F-5CE5A31F2055}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{724B9E28-AEBA-48A7-805F-5CE5A31F2055}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{724B9E28-AEBA-48A7-805F-5CE5A31F2055}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{724B9E28-AEBA-48A7-805F-5CE5A31F2055}.Release|Any CPU.Build.0 = Release|Any CPU
+		{271F26D7-82B9-4B9D-9B96-DFEAB34B398B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{271F26D7-82B9-4B9D-9B96-DFEAB34B398B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{271F26D7-82B9-4B9D-9B96-DFEAB34B398B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{271F26D7-82B9-4B9D-9B96-DFEAB34B398B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

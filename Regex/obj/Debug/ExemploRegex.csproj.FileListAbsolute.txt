@@ -1,0 +1,6 @@
+c:\users\larissa.santana\documents\visual studio 2017\Projects\ConsoleApp1\Regex\bin\Debug\Regex.exe.config
+c:\users\larissa.santana\documents\visual studio 2017\Projects\ConsoleApp1\Regex\bin\Debug\Regex.exe
+c:\users\larissa.santana\documents\visual studio 2017\Projects\ConsoleApp1\Regex\bin\Debug\Regex.pdb
+c:\users\larissa.santana\documents\visual studio 2017\Projects\ConsoleApp1\Regex\obj\Debug\Regex.exe
+c:\users\larissa.santana\documents\visual studio 2017\Projects\ConsoleApp1\Regex\obj\Debug\Regex.pdb
+c:\users\larissa.santana\documents\visual studio 2017\Projects\ConsoleApp1\Regex\obj\Debug\ExemploRegex.csprojResolveAssemblyReference.cache
